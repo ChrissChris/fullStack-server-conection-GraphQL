@@ -1,4 +1,4 @@
-# Full-stack connections with GraphQL ✨
+# Full-stack connection with GraphQL ✨
 
 </br>
 </br>
